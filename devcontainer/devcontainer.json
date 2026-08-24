@@ -2,7 +2,7 @@
   "name": "Hadoop & Big Data Lab",
   "image": "mrc.microsoft.com/devcontainers/universal:latest",
   "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
     "ghcr.io/devcontainers/features/java:1": {
       "version": "11"
     },
